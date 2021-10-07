@@ -5,7 +5,7 @@ Version: 1.0
 Date: 2021-09-22
 Author: Peng Su
 Maintainer: Peng SU <peng.su@sydney.edu.au>
-Description: This is not my original work. The functions in this package were forked from https://github.com/ineswilms/sparse-shooting-S. I constructed a package for those functions to make them more convinient to use.
+Description: This shootings package is not my original work. The functions in this package were forked from https://github.com/ineswilms/sparse-shooting-S. I constructed a package of those functions to make them more convenient to use.
 License: What license is it under?
 Imports: Rcpp (>= 1.0.7)
 LinkingTo: Rcpp, RcppArmadillo
