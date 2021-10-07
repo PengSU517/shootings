@@ -1,11 +1,11 @@
 Package: shootings
 Type: Package
-Title: What the package does (short line)
+Title: Sparse Shooting S-estimator
 Version: 1.0
 Date: 2021-09-22
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Peng Su
+Maintainer: Peng SU <peng.su@sydney.edu.au>
+Description: This is not my original work. The functions in this package were forked from https://github.com/ineswilms/sparse-shooting-S. I constructed a package for those functions to make them more convinient to use.
 License: What license is it under?
 Imports: Rcpp (>= 1.0.7)
 LinkingTo: Rcpp, RcppArmadillo
